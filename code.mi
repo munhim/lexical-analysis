@@ -1,0 +1,8 @@
+number a barabar 100
+number b barabar 100
+word x barabar "Hello"
+bahir(a add b)
+bahir("Hello world")
+decimal m barabar 5.7777
+bolo my name is munhim
+letter n barabar 'a'
