@@ -1,6 +1,4 @@
-# 22i-0857_22i-1021_CC_ASSIGNMENT_1
 
----
 
 # mi+ Language – Lexical Specification and User Manual
 
